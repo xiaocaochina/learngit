@@ -5,4 +5,5 @@ git tracks changes.
 git tracks changes of files.
 Creating a new branch is quick.
 Creating a new brach is quick & simple
+creating a new branch is quick AND simple.
 
